@@ -21,7 +21,7 @@ function sumOfNumbers(arrayOfNumbers) {
   }
   return total;
 }
-assignment.sumOfNumbers = sumOfNumbers
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
